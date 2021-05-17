@@ -6,6 +6,7 @@ import 'package:flutter/services.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:kadilabstore/UI/Nouveaute.dart';
+import 'package:kadilabstore/UI/PlusVues.dart';
 
 import '../globalsvariable.dart';
 
@@ -207,7 +208,14 @@ class _HomePage extends State<HomePage>{
                     ),
 
                     FlatButton(
-                      onPressed: (){},
+                      onPressed: (){
+                        Navigator.push(
+                            context,
+                            MaterialPageRoute(builder: (context){
+                              return PlusVues();
+                            })
+                        );
+                      },
                       child: Text(
                         'voir tout',
                       ),
