@@ -98,7 +98,7 @@ Widget backButton(context){
       image: AssetImage(
           'assets/image/left-arrow.png'
       ),
-      width: width(context) / 20,
+      width: width(context) / 15,
     ),
     onPressed: (){
       Navigator.pop(context);
