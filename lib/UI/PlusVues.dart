@@ -59,7 +59,7 @@ class _PlusVues extends State<PlusVues>{
                       childAspectRatio: (0.65)
                   ),
                   itemBuilder: (context, index) => GestureDetector(
-                    child: item(articles[index], context),
+                    child: item(articles[index], context, index),
                   ),
                 ),
               ),

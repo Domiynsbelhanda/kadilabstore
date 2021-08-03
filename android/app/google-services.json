@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "723116692943",
+    "firebase_url": "https://flutterfirebase-a22d4.firebaseio.com",
+    "project_id": "flutterfirebase-a22d4",
+    "storage_bucket": "flutterfirebase-a22d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723116692943:android:0efd7d7a230d50b752aeba",
+        "android_client_info": {
+          "package_name": "com.domiyns.kadilabstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723116692943-3cl1frlpkhvmjliolpete8e13ivo04ab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgGhfI6TtWEFmiQXOviFVUBO7PrkTEAPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723116692943-3cl1frlpkhvmjliolpete8e13ivo04ab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723116692943:android:4f89307eef6acf2c52aeba",
+        "android_client_info": {
+          "package_name": "com.example.flutterfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723116692943-3cl1frlpkhvmjliolpete8e13ivo04ab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgGhfI6TtWEFmiQXOviFVUBO7PrkTEAPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723116692943-3cl1frlpkhvmjliolpete8e13ivo04ab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
